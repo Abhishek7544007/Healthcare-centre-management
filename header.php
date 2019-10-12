@@ -166,7 +166,7 @@ input[type=number]{
 </head>
 <body id="top">
 <div class="wrapper col1">
-<center><a href="index.php"><img src="images/Online Hospital Management System.png"></a></center>
+<center><a href="index.php"><img src="images/hcc.png" style="width:100% height:auto;"></a></center>
   <div id="head">
     
     <div id="topnav">
